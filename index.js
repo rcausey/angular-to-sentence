@@ -30,7 +30,7 @@ angular.module('toSentence', []).
 					elementText = items[0] +
 						twoWordsConnector +
 						items[1];
-				} else {
+				} else if (len > 2) {
 					elementText =
 						items.slice(0, -1).join(wordsConnector) +
 						lastWordConnector + items[len - 1];
