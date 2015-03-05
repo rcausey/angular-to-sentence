@@ -1,6 +1,6 @@
 {
   "name": "angular-to-sentence",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Angular directive that converts an array of words or word groups into a sentence, with configurable word connectors.",
   "main": "index.js",
   "author": "Rhys Causey <rhys.causey@gmail.com>",
@@ -10,6 +10,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rcausey/to-sentence.git"
+    "url": "https://github.com/rcausey/angular-to-sentence.git"
   }
 }
