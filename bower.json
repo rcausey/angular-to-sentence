@@ -1,5 +1,5 @@
 {
-  "name": "to-sentence",
+  "name": "angular-to-sentence",
   "version": "1.0.0",
   "description": "Angular directive that converts an array of words or word groups into a sentence, with configurable word connectors.",
   "main": "index.js",

@@ -1,5 +1,5 @@
 /*
- * to-sentence v1.0.0
+ * angular-to-sentence v1.0.0
  * (c) 2015 Rhys Causey
  * License: MIT
  */
